@@ -13,7 +13,6 @@ public class Test1 {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.sillycorns.shop/");
-		System.out.println("Hello Git");
 	}
 	
 
